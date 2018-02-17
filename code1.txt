@@ -3,3 +3,6 @@ this is my first project
 
 
 this is second commmand
+
+
+this is test git configuration file for using git
